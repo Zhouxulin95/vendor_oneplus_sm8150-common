@@ -290,7 +290,7 @@ PRODUCT_PACKAGES += \
     libmmrtpdecoder_proprietary \
     libmmrtpencoder_proprietary \
     libmulawdec \
-    libpn553_fw \
+#     libpn553_fw \
     libqcodec2 \
     libqtigef \
     libsmwrapper \
